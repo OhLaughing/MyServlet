@@ -22,6 +22,9 @@ learn servlet
 6. 运行
 
 
+servlet的文章：https://www.cnblogs.com/whgk/p/6399262.html
+
+
 
 严重: Servlet.service() for servlet [jsp] in context with path [] threw exception [java.lang.LinkageError: loader constraint violation: loader (instance of org/apache/jasper/servlet/JasperLoader) previously initiated loading for a different type with name "javax/servlet/http/HttpServletRequest"] with root cause
 java.lang.LinkageError: loader constraint violation: loader (instance of org/apache/jasper/servlet/JasperLoader) previously initiated loading for a different type with name "javax/servlet/http/HttpServletRequest"
