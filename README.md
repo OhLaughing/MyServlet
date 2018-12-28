@@ -22,7 +22,8 @@ learn servlet
 6. 运行
 
 
-servlet的文章：https://www.cnblogs.com/whgk/p/6399262.html
+servlet的文章：https://www.cnblogs.com/whgk/p/6399262.html  
+https://www.cnblogs.com/libingbin/p/5960456.html
 
 
 
