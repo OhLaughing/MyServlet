@@ -61,3 +61,4 @@ java.lang.LinkageError: loader constraint violation: loader (instance of org/apa
 
 ### servlet
 	[初学 Java Web 开发，请远离各种框架，从 Servlet 开发](https://www.oschina.net/question/12_52027)
+	servlet和servlet容器的关系？，servlet就是一个java程序，
