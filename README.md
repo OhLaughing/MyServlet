@@ -61,4 +61,4 @@ java.lang.LinkageError: loader constraint violation: loader (instance of org/apa
 
 ### servlet
 	[初学 Java Web 开发，请远离各种框架，从 Servlet 开发](https://www.oschina.net/question/12_52027)
-	servlet和servlet容器的关系？，servlet就是一个java程序，
+	servlet和servlet容器的关系？，servlet就是一个java程序，tomcat是servlet容器，负责加载和实例化servlet，还负责将http请求封装成httpservletRequest给servlet，和把servlet返回的httpservletResponse解析成浏览器显示数据
