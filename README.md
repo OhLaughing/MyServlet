@@ -57,3 +57,7 @@ java.lang.LinkageError: loader constraint violation: loader (instance of org/apa
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at java.lang.Thread.run(Thread.java:748)
+
+
+### servlet
+	[初学 Java Web 开发，请远离各种框架，从 Servlet 开发]https://www.oschina.net/question/12_52027
